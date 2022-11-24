@@ -1,5 +1,6 @@
 /**
  * Sample React Native App
+ * Jiangjqian
  * https://github.com/facebook/react-native
  *
  * @format
